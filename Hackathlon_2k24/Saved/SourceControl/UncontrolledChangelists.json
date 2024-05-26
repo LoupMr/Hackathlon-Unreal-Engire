@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Megaport/Desktop/Hackathlon_2k24/Content/NewMap.umap",
+				"C:/Users/Megaport/Desktop/Hackathlon_2k24/Content/floor/FloorTile_Mat.uasset",
+				"C:/Users/Megaport/Desktop/Hackathlon_2k24/Content/floor/Tiles/FloorTile_Diff.uasset",
+				"C:/Users/Megaport/Desktop/Hackathlon_2k24/Content/floor/Tiles/FloorTile_EM.uasset",
+				"C:/Users/Megaport/Desktop/Hackathlon_2k24/Content/floor/Tiles/FloorTile_Mat.uasset",
+				"C:/Users/Megaport/Desktop/Hackathlon_2k24/Content/floor/Tiles/FloorTile_Nrm.uasset",
+				"C:/Users/Megaport/Desktop/Hackathlon_2k24/Content/floor/Blueprints/FloorRespawning.uasset",
 				"C:/Users/loup/Documents/Unreal Projects/Hackathlon_2k24/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/loup/Documents/Unreal Projects/Hackathlon_2k24/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/loup/Documents/Unreal Projects/Hackathlon_2k24/Content/ThirdPerson/Blueprints/runcharacter.uasset",
